@@ -34,7 +34,10 @@ captures/
 
 # Intellij
 *.iml
-.idea/workspace.xml
+.idea
 
 # Keystore files
 *.jks
+
+/app/build/
+/app/src/main/java/com/example/suguiming/calendar/MainActivity.java
